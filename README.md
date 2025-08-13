@@ -28,7 +28,7 @@ Play against another player or challenge the computer in an easy-to-use, respons
 5. If all cells are filled without a winner, the game ends in a draw.
 
 ## 🖥 Demo
-[**Live Game Link**](https://yourusername.github.io/tic-tac-toe)
+[**Live Game Link**](https://shubhamrana7076.github.io/SCT_WD_3/)
 
 ## 📸 Screenshot
 ![Tic Tac Toe Screenshot](screenshot.png)
@@ -39,12 +39,3 @@ Play against another player or challenge the computer in an easy-to-use, respons
 - **JavaScript (Vanilla)**
 - **Font Awesome** (icons)
 
-## 📦 Installation
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/tic-tac-toe.git
-
-# Open the folder
-cd tic-tac-toe
-
-# Open index.html in your browser
