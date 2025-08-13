@@ -30,8 +30,6 @@ Play against another player or challenge the computer in an easy-to-use, respons
 ## 🖥 Demo
 [**Live Game Link**](https://shubhamrana7076.github.io/SCT_WD_3/)
 
-## 📸 Screenshot
-![Tic Tac Toe Screenshot](screenshot.png)
 
 ## 🛠 Tech Stack
 - **HTML5**
